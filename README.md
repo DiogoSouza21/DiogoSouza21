@@ -1,6 +1,6 @@
 <h1>Hi, I'm Diogo 👋</h1>
 
-- 🔭 I’m currently studying on **Web Development at Trybe;**
+- 🔭 I’m currently studying on **Web Development;**
 
 - 🌱 I’m currently learning **Context API and React Hooks;**
 
