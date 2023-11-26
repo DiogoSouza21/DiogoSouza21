@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **HTML, CSS, JS, ReactJS, Redux;**
 
-- 📝 I regularly write articles on [everything I'm studying, currently about Context API and React Hooks;](everything I'm studying, currently about Context API and React Hooks;)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diogosouza3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diogosouza3/" height="30" width="40" /></a>
